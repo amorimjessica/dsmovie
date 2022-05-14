@@ -68,7 +68,7 @@ nav a {
     padding: 40px 0;
 }
 .dsmovie-card {
-    width: 360px;
+    width: 100px;
 }
 
 .dsmovie-card img {
@@ -82,6 +82,8 @@ nav a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    border-radius: 0 0 8px 8px;
+    justify-content: space-between;
 }
 
 .dsmovie-card-description h3 {
